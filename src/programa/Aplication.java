@@ -40,6 +40,7 @@ public class Aplication {
 			imprimirTodos(lista);
 			
 		}
+		System.out.println("");
 		
 		sc.close();
 
